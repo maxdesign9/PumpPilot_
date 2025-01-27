@@ -1,5 +1,7 @@
 # PumpPilot - AI-Powered Trading Platform
 
+## Powered By DeepSeek
+
 PumpPilot is an innovative trading assistant designed to leverage AI tools for optimizing token charts and trends, focusing on new token pairs and promoting bullish activity within the ecosystem. The platform integrates real-time analytics, precise execution strategies, and automated tools to empower traders and communities alike.
 
 ![PumpPilot](icons/pumppilot.png)
